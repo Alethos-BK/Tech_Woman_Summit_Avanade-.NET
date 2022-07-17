@@ -1,0 +1,17 @@
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\services\flight\BookingAppDio.Flight.Domain\bin\Debug\net6.0\BookingAppDio.Flight.Domain.deps.json
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\services\flight\BookingAppDio.Flight.Domain\bin\Debug\net6.0\BookingAppDio.Flight.Domain.runtimeconfig.json
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\services\flight\BookingAppDio.Flight.Domain\bin\Debug\net6.0\BookingAppDio.Flight.Domain.dll
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\services\flight\BookingAppDio.Flight.Domain\bin\Debug\net6.0\BookingAppDio.Flight.Domain.pdb
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\services\flight\BookingAppDio.Flight.Domain\bin\Debug\net6.0\BookingAppDio.Core.dll
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\services\flight\BookingAppDio.Flight.Domain\bin\Debug\net6.0\BookingAppDio.Core.pdb
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\services\flight\BookingAppDio.Flight.Domain\obj\Debug\net6.0\BookingAppDio.Flight.Domain.csproj.AssemblyReference.cache
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\services\flight\BookingAppDio.Flight.Domain\obj\Debug\net6.0\BookingAppDio.Flight.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\services\flight\BookingAppDio.Flight.Domain\obj\Debug\net6.0\BookingAppDio.Flight.Domain.AssemblyInfoInputs.cache
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\services\flight\BookingAppDio.Flight.Domain\obj\Debug\net6.0\BookingAppDio.Flight.Domain.AssemblyInfo.cs
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\services\flight\BookingAppDio.Flight.Domain\obj\Debug\net6.0\BookingAppDio.Flight.Domain.csproj.CoreCompileInputs.cache
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\services\flight\BookingAppDio.Flight.Domain\obj\Debug\net6.0\BookingAppDio.Flight.Domain.csproj.CopyComplete
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\services\flight\BookingAppDio.Flight.Domain\obj\Debug\net6.0\BookingAppDio.Flight.Domain.dll
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\services\flight\BookingAppDio.Flight.Domain\obj\Debug\net6.0\refint\BookingAppDio.Flight.Domain.dll
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\services\flight\BookingAppDio.Flight.Domain\obj\Debug\net6.0\BookingAppDio.Flight.Domain.pdb
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\services\flight\BookingAppDio.Flight.Domain\obj\Debug\net6.0\BookingAppDio.Flight.Domain.genruntimeconfig.cache
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\services\flight\BookingAppDio.Flight.Domain\obj\Debug\net6.0\ref\BookingAppDio.Flight.Domain.dll

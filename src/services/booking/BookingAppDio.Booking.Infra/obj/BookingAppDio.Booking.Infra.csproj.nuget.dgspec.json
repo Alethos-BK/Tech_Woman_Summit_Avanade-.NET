@@ -1,0 +1,271 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\opt\\dsn\\pessoal-alice\\dio\\app\\BookingAppDio\\src\\services\\booking\\BookingAppDio.Booking.Infra\\BookingAppDio.Booking.Infra.csproj": {}
+  },
+  "projects": {
+    "C:\\opt\\dsn\\pessoal-alice\\dio\\app\\BookingAppDio\\src\\core\\BookingAppDio.Core\\BookingAppDio.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\opt\\dsn\\pessoal-alice\\dio\\app\\BookingAppDio\\src\\core\\BookingAppDio.Core\\BookingAppDio.Core.csproj",
+        "projectName": "BookingAppDio.Core",
+        "projectPath": "C:\\opt\\dsn\\pessoal-alice\\dio\\app\\BookingAppDio\\src\\core\\BookingAppDio.Core\\BookingAppDio.Core.csproj",
+        "packagesPath": "C:\\Users\\DSNPACK\\.nuget\\packages\\",
+        "outputPath": "C:\\opt\\dsn\\pessoal-alice\\dio\\app\\BookingAppDio\\src\\core\\BookingAppDio.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DSNPACK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "IdGen": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Mapster": {
+              "target": "Package",
+              "version": "[7.3.0, )"
+            },
+            "Mapster.DependencyInjection": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\opt\\dsn\\pessoal-alice\\dio\\app\\BookingAppDio\\src\\services\\booking\\BookingAppDio.Booking.Domain\\BookingAppDio.Booking.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\opt\\dsn\\pessoal-alice\\dio\\app\\BookingAppDio\\src\\services\\booking\\BookingAppDio.Booking.Domain\\BookingAppDio.Booking.Domain.csproj",
+        "projectName": "BookingAppDio.Booking.Domain",
+        "projectPath": "C:\\opt\\dsn\\pessoal-alice\\dio\\app\\BookingAppDio\\src\\services\\booking\\BookingAppDio.Booking.Domain\\BookingAppDio.Booking.Domain.csproj",
+        "packagesPath": "C:\\Users\\DSNPACK\\.nuget\\packages\\",
+        "outputPath": "C:\\opt\\dsn\\pessoal-alice\\dio\\app\\BookingAppDio\\src\\services\\booking\\BookingAppDio.Booking.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DSNPACK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\opt\\dsn\\pessoal-alice\\dio\\app\\BookingAppDio\\src\\core\\BookingAppDio.Core\\BookingAppDio.Core.csproj": {
+                "projectPath": "C:\\opt\\dsn\\pessoal-alice\\dio\\app\\BookingAppDio\\src\\core\\BookingAppDio.Core\\BookingAppDio.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\opt\\dsn\\pessoal-alice\\dio\\app\\BookingAppDio\\src\\services\\booking\\BookingAppDio.Booking.Infra\\BookingAppDio.Booking.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\opt\\dsn\\pessoal-alice\\dio\\app\\BookingAppDio\\src\\services\\booking\\BookingAppDio.Booking.Infra\\BookingAppDio.Booking.Infra.csproj",
+        "projectName": "BookingAppDio.Booking.Infra",
+        "projectPath": "C:\\opt\\dsn\\pessoal-alice\\dio\\app\\BookingAppDio\\src\\services\\booking\\BookingAppDio.Booking.Infra\\BookingAppDio.Booking.Infra.csproj",
+        "packagesPath": "C:\\Users\\DSNPACK\\.nuget\\packages\\",
+        "outputPath": "C:\\opt\\dsn\\pessoal-alice\\dio\\app\\BookingAppDio\\src\\services\\booking\\BookingAppDio.Booking.Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DSNPACK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\opt\\dsn\\pessoal-alice\\dio\\app\\BookingAppDio\\src\\core\\BookingAppDio.Core\\BookingAppDio.Core.csproj": {
+                "projectPath": "C:\\opt\\dsn\\pessoal-alice\\dio\\app\\BookingAppDio\\src\\core\\BookingAppDio.Core\\BookingAppDio.Core.csproj"
+              },
+              "C:\\opt\\dsn\\pessoal-alice\\dio\\app\\BookingAppDio\\src\\services\\booking\\BookingAppDio.Booking.Domain\\BookingAppDio.Booking.Domain.csproj": {
+                "projectPath": "C:\\opt\\dsn\\pessoal-alice\\dio\\app\\BookingAppDio\\src\\services\\booking\\BookingAppDio.Booking.Domain\\BookingAppDio.Booking.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

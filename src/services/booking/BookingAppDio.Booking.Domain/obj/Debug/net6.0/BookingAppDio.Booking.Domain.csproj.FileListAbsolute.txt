@@ -1,0 +1,17 @@
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\services\booking\BookingAppDio.Booking.Domain\bin\Debug\net6.0\BookingAppDio.Booking.Domain.deps.json
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\services\booking\BookingAppDio.Booking.Domain\bin\Debug\net6.0\BookingAppDio.Booking.Domain.runtimeconfig.json
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\services\booking\BookingAppDio.Booking.Domain\bin\Debug\net6.0\BookingAppDio.Booking.Domain.dll
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\services\booking\BookingAppDio.Booking.Domain\bin\Debug\net6.0\BookingAppDio.Booking.Domain.pdb
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\services\booking\BookingAppDio.Booking.Domain\bin\Debug\net6.0\BookingAppDio.Core.dll
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\services\booking\BookingAppDio.Booking.Domain\bin\Debug\net6.0\BookingAppDio.Core.pdb
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\services\booking\BookingAppDio.Booking.Domain\obj\Debug\net6.0\BookingAppDio.Booking.Domain.csproj.AssemblyReference.cache
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\services\booking\BookingAppDio.Booking.Domain\obj\Debug\net6.0\BookingAppDio.Booking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\services\booking\BookingAppDio.Booking.Domain\obj\Debug\net6.0\BookingAppDio.Booking.Domain.AssemblyInfoInputs.cache
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\services\booking\BookingAppDio.Booking.Domain\obj\Debug\net6.0\BookingAppDio.Booking.Domain.AssemblyInfo.cs
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\services\booking\BookingAppDio.Booking.Domain\obj\Debug\net6.0\BookingAppDio.Booking.Domain.csproj.CoreCompileInputs.cache
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\services\booking\BookingAppDio.Booking.Domain\obj\Debug\net6.0\BookingAppDio.Booking.Domain.csproj.CopyComplete
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\services\booking\BookingAppDio.Booking.Domain\obj\Debug\net6.0\BookingAppDio.Booking.Domain.dll
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\services\booking\BookingAppDio.Booking.Domain\obj\Debug\net6.0\refint\BookingAppDio.Booking.Domain.dll
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\services\booking\BookingAppDio.Booking.Domain\obj\Debug\net6.0\BookingAppDio.Booking.Domain.pdb
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\services\booking\BookingAppDio.Booking.Domain\obj\Debug\net6.0\BookingAppDio.Booking.Domain.genruntimeconfig.cache
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\services\booking\BookingAppDio.Booking.Domain\obj\Debug\net6.0\ref\BookingAppDio.Booking.Domain.dll

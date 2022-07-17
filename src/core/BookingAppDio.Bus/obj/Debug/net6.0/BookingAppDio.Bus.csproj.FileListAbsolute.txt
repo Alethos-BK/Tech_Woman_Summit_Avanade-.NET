@@ -1,0 +1,17 @@
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\core\BookingAppDio.Bus\bin\Debug\net6.0\BookingAppDio.Bus.deps.json
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\core\BookingAppDio.Bus\bin\Debug\net6.0\BookingAppDio.Bus.runtimeconfig.json
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\core\BookingAppDio.Bus\bin\Debug\net6.0\BookingAppDio.Bus.dll
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\core\BookingAppDio.Bus\bin\Debug\net6.0\BookingAppDio.Bus.pdb
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\core\BookingAppDio.Bus\bin\Debug\net6.0\BookingAppDio.Core.dll
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\core\BookingAppDio.Bus\bin\Debug\net6.0\BookingAppDio.Core.pdb
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\core\BookingAppDio.Bus\obj\Debug\net6.0\BookingAppDio.Bus.csproj.AssemblyReference.cache
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\core\BookingAppDio.Bus\obj\Debug\net6.0\BookingAppDio.Bus.GeneratedMSBuildEditorConfig.editorconfig
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\core\BookingAppDio.Bus\obj\Debug\net6.0\BookingAppDio.Bus.AssemblyInfoInputs.cache
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\core\BookingAppDio.Bus\obj\Debug\net6.0\BookingAppDio.Bus.AssemblyInfo.cs
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\core\BookingAppDio.Bus\obj\Debug\net6.0\BookingAppDio.Bus.csproj.CoreCompileInputs.cache
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\core\BookingAppDio.Bus\obj\Debug\net6.0\BookingAppDio.Bus.csproj.CopyComplete
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\core\BookingAppDio.Bus\obj\Debug\net6.0\BookingAppDio.Bus.dll
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\core\BookingAppDio.Bus\obj\Debug\net6.0\refint\BookingAppDio.Bus.dll
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\core\BookingAppDio.Bus\obj\Debug\net6.0\BookingAppDio.Bus.pdb
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\core\BookingAppDio.Bus\obj\Debug\net6.0\BookingAppDio.Bus.genruntimeconfig.cache
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\core\BookingAppDio.Bus\obj\Debug\net6.0\ref\BookingAppDio.Bus.dll

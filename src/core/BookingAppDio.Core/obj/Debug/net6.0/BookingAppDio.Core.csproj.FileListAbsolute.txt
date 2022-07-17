@@ -1,0 +1,14 @@
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\core\BookingAppDio.Core\bin\Debug\net6.0\BookingAppDio.Core.deps.json
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\core\BookingAppDio.Core\bin\Debug\net6.0\BookingAppDio.Core.runtimeconfig.json
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\core\BookingAppDio.Core\bin\Debug\net6.0\BookingAppDio.Core.dll
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\core\BookingAppDio.Core\bin\Debug\net6.0\BookingAppDio.Core.pdb
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\core\BookingAppDio.Core\obj\Debug\net6.0\BookingAppDio.Core.csproj.AssemblyReference.cache
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\core\BookingAppDio.Core\obj\Debug\net6.0\BookingAppDio.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\core\BookingAppDio.Core\obj\Debug\net6.0\BookingAppDio.Core.AssemblyInfoInputs.cache
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\core\BookingAppDio.Core\obj\Debug\net6.0\BookingAppDio.Core.AssemblyInfo.cs
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\core\BookingAppDio.Core\obj\Debug\net6.0\BookingAppDio.Core.csproj.CoreCompileInputs.cache
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\core\BookingAppDio.Core\obj\Debug\net6.0\BookingAppDio.Core.dll
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\core\BookingAppDio.Core\obj\Debug\net6.0\refint\BookingAppDio.Core.dll
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\core\BookingAppDio.Core\obj\Debug\net6.0\BookingAppDio.Core.pdb
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\core\BookingAppDio.Core\obj\Debug\net6.0\BookingAppDio.Core.genruntimeconfig.cache
+C:\opt\dsn\pessoal-alice\dio\app\BookingAppDio\src\core\BookingAppDio.Core\obj\Debug\net6.0\ref\BookingAppDio.Core.dll
